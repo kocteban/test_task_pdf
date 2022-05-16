@@ -104,4 +104,4 @@ def compare_elements_coordinates(sample_list: list,
 
     if res or res2:
         print(f"Поля, местоположение которых отличается от "
-              f"шаблона {res, res2}")
+              f"шаблона: {res, res2}")
